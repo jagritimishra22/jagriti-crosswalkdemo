@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/jagritimishra22/jagriti-crosswalkdemo/main"
+    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/jagritimishra22/jagritiCrosswalkdemo/main"
     type: "markup"
     suffix: ".html"
