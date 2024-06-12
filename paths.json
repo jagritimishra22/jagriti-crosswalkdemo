@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/jagritim-crosswalkdemo/:/",
-    "/content/jagritim-crosswalkdemo/configuration:/.helix/config.json"
+    "/content/jagritiCrosswalkdemo/:/",
+    "/content/jagritiCrosswalkdemo/configuration:/.helix/config.json"
   ]
 }
